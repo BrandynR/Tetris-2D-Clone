@@ -1,7 +1,9 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/jomXfwi" data-context="false" ><a href="//imgur.com/a/jomXfwi">Tetris 2D Clone</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<img src="https://i.imgur.com/PhITHSw.png"
+     alt="Game Screenshot"
+     style="float: left; margin-right: 10px;" />
 # 2D Games: Tetris Clone
 
+## [Tetris Clone](https://sharemygame.com/@BrandynR/2d-clone-tetris)
 This repo is attempt at full functional Tetris clone. Complete with a pause/restart menu, music and sound effects, and the ability to hold a piece off to the side and call it back, this clone is updated remix of the 80's classic.
 
 
