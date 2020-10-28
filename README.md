@@ -40,17 +40,29 @@ Things to consider including in your game:
 -   Two players
 
 Create three builds of your game (Windows, Mac, Linux), zip them, and upload them to Google Drive or Dropbox.
+- **[Windows](https://www.dropbox.com/s/0ni4rkbkdtbueu5/Windows.zip?dl=0)**
+- **[Mac](https://www.dropbox.com/s/tekqfw35kg7njbv/Mac.zip?dl=0)**
+- **[Linux](https://www.dropbox.com/s/uqllj2ucghcso72/Linux.zip?dl=0)**
 
+<img src="https://i.imgur.com/t2rytCD.png"
+     alt="Game Screenshot"
+     style="float: left; margin-right: 10px;" />
 
 ## How to Play
 
+### Select A  Build
+- **[Windows](https://www.dropbox.com/s/0ni4rkbkdtbueu5/Windows.zip?dl=0)**
+- **[Mac](https://www.dropbox.com/s/tekqfw35kg7njbv/Mac.zip?dl=0)**
+- **[Linux](https://www.dropbox.com/s/uqllj2ucghcso72/Linux.zip?dl=0)**
+
+### Controls
 - Use the arrow keys to move a game piece left, right, or down. 
 - Up Arrow to rotate a game piece.
 - '/' to change to the rotation direction.
 - 'Right Shift' to hold a game piece off to the side, or to recall that piece.
 - 'Escape' to pause the game.
 
-### Connect With Me
+## Connect With Me
 - **[Twitter @Optimus_Is_Me](https://twitter.com/Optimus_is_Me)**
 - **[LinkedIn](https://www.linkedin.com/in/brandyn-reindel-372b57102/)**
 - **[Other Games I've Made](https://sharemygame.com/@BrandynR)**
