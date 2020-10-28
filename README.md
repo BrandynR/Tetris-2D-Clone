@@ -51,8 +51,9 @@ Create three builds of your game (Windows, Mac, Linux), zip them, and upload the
 - 'Escape' to pause the game.
 
 ### Connect With Me
-- **Twitter** https://twitter.com/Optimus_is_Me
-- **LinkedIn** https://www.linkedin.com/in/brandyn-reindel-372b57102/
-- **Other Games I've Made** https://sharemygame.com/@BrandynR
+- **[Twitter @Optimus_Is_Me](https://twitter.com/Optimus_is_Me)**
+- **[LinkedIn](https://www.linkedin.com/in/brandyn-reindel-372b57102/)**
+- **[Other Games I've Made](https://sharemygame.com/@BrandynR)**
+- **[Space Escape Game](https://github.com/BrandynR/Space_Escape)**
 
 > Written with [StackEdit](https://stackedit.io/).
