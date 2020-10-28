@@ -6,6 +6,8 @@
 ## [Tetris Clone](https://sharemygame.com/@BrandynR/2d-clone-tetris)
 This repo is attempt at full functional Tetris clone. Complete with a pause/restart menu, music and sound effects, and the ability to hold a piece off to the side and call it back, this clone is updated remix of the 80's classic.
 
+I chose to make a Tetris Clone because growing up I remember watching my Nana play Tetris (and eventually TetrisColor) on her GameBoy each night before bed. She would call me and my brother over each time she had beaten the game and rocket ship blasts off! These early memories of my Nana are some of my favorite, and if she were here I know she would love that I made this game for her.
+
 
 # Original Project Guidelines
 
