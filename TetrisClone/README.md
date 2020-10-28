@@ -1,6 +1,12 @@
+<img src="https://i.imgur.com/PhITHSw.png"
+     alt="Game Screenshot"
+     style="float: left; margin-right: 10px;" />
 # 2D Games: Tetris Clone
 
+## [Tetris Clone](https://sharemygame.com/@BrandynR/2d-clone-tetris)
 This repo is attempt at full functional Tetris clone. Complete with a pause/restart menu, music and sound effects, and the ability to hold a piece off to the side and call it back, this clone is updated remix of the 80's classic.
+
+I chose to make a Tetris Clone because growing up I remember watching my Nana play Tetris (and eventually TetrisColor) on her GameBoy each night before bed. She would call me and my brother over each time she had beaten the game and rocket ship blasts off! These early memories of my Nana are some of my favorite, and if she were here I know she would love that I made this game for her.
 
 
 # Original Project Guidelines
@@ -17,7 +23,7 @@ This repo is attempt at full functional Tetris clone. Complete with a pause/rest
 -   In your scripts, all your public classes and their members should have XML documentation tags
 -   In your scripts, all your private classes and members should be documented but without XML documentation tags
 
-#### 0. Classic clones  #advanced
+#### 0. Classic clones  (advanced)
 
 In Unity, create a 2D clone of one of the following classic games:
 
@@ -43,3 +49,10 @@ Create three builds of your game (Windows, Mac, Linux), zip them, and upload the
 - '/' to change to the rotation direction.
 - 'Right Shift' to hold a game piece off to the side, or to recall that piece.
 - 'Escape' to pause the game.
+
+### Connect With Me
+- **Twitter** https://twitter.com/Optimus_is_Me
+- **LinkedIn** https://www.linkedin.com/in/brandyn-reindel-372b57102/
+- **Other Games I've Made** https://sharemygame.com/@BrandynR
+
+> Written with [StackEdit](https://stackedit.io/).
