@@ -48,4 +48,9 @@ Create three builds of your game (Windows, Mac, Linux), zip them, and upload the
 - 'Right Shift' to hold a game piece off to the side, or to recall that piece.
 - 'Escape' to pause the game.
 
+### Connect With Me
+- **Twitter** https://twitter.com/Optimus_is_Me
+- **LinkedIn** https://www.linkedin.com/in/brandyn-reindel-372b57102/
+- **Other Games I've Made** https://sharemygame.com/@BrandynR
+
 > Written with [StackEdit](https://stackedit.io/).
